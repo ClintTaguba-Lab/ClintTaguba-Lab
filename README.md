@@ -36,8 +36,6 @@ Alongside my current role, I'm continuously expanding my skills in Data Science 
 
 ## 💼 Professional Skillset
 
-### 💼 Professional Skillset
-
 <table>
   <tr>
     <td>
