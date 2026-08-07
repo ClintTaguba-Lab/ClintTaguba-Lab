@@ -36,6 +36,7 @@ Alongside my current role, I'm continuously expanding my skills in Data Science 
 
 ## 💼 Professional Skillset
 
+<table>
   <tr>
     <td>
       <img src="https://img.shields.io/badge/Process_Optimization-4B5563?style=flat" alt="Process Optimization">
