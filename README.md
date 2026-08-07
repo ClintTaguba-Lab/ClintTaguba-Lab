@@ -34,12 +34,28 @@ Alongside my current role, I'm continuously expanding my skills in Data Science 
 - Machine Learning with Python, including model development, evaluation, and deployment
 - Data Engineering with Google BigQuery, including data pipelines, data modeling, and cloud data warehousing.
 
-## 🛠️ Technical Skillset
+## 🛠️ Professional Skillset
 
-<img src="https://img.shields.io/badge/Process_Optimization-4B5563?style=flat" alt="Process Optimization">
-<img src="https://img.shields.io/badge/Stakeholder_Management-4B5563?style=flat" alt="Stakeholder Management">
-<img src="https://img.shields.io/badge/Documentation_%26_SOP_Development-4B5563?style=flat" alt="Documentation & SOP Development">
-<img src="https://img.shields.io/badge/Time_Management-4B5563?style=flat" alt="Time Management"><!-- This section uses Shields.io badges. You can customize them or create your own!-->
+<table>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Process_Optimization-4B5563?style=flat" alt="Process Optimization">
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Stakeholder_Management-4B5563?style=flat" alt="Stakeholder Management">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Documentation_%26_SOP_Development-4B5563?style=flat" alt="Documentation & SOP Development">
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Time_Management-4B5563?style=flat" alt="Time Management">
+    </td>
+  </tr>
+</table>!-- This section uses Shields.io badges. You can customize them or create your own!-->
+
+## 🛠️ Technical Skillset
 
 #### Data Analysis & Visualization
 <p>
