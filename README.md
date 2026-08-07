@@ -34,9 +34,8 @@ Alongside my current role, I'm continuously expanding my skills in Data Science 
 - Machine Learning with Python, including model development, evaluation, and deployment
 - Data Engineering with Google BigQuery, including data pipelines, data modeling, and cloud data warehousing.
 
-## 🛠️ Professional Skillset
+## 💼 Professional Skillset
 
-<table>
   <tr>
     <td>
       <img src="https://img.shields.io/badge/Process_Optimization-4B5563?style=flat" alt="Process Optimization">
@@ -53,7 +52,6 @@ Alongside my current role, I'm continuously expanding my skills in Data Science 
       <img src="https://img.shields.io/badge/Time_Management-4B5563?style=flat" alt="Time Management">
     </td>
   </tr>
-</table>!-- This section uses Shields.io badges. You can customize them or create your own!-->
 
 ## 🛠️ Technical Skillset
 
