@@ -36,8 +36,8 @@ Alongside my current role, I'm continuously expanding my skills in Data Science 
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- Machine Learning with Python, including model development, evaluation, and deployment
+- Data Engineering with Google BigQuery, including data pipelines, data modeling, and cloud data warehousing.
 
 ## 🛠️ Technical Skillset
 
