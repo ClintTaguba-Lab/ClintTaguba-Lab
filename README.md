@@ -53,6 +53,7 @@ Alongside my current role, I'm continuously expanding my skills in Data Science 
       <img src="https://img.shields.io/badge/Time_Management-4B5563?style=flat" alt="Time Management">
     </td>
   </tr>
+</table>
 
 ## 🛠️ Technical Skillset
 
