@@ -60,6 +60,6 @@ Alongside my current role, I'm continuously expanding my skills in Data Science 
 <p>
   <img src="https://img.shields.io/badge/KPI%20Development-Advanced-F2C811?style=flat" alt="KPI Development Skill Badge">
   <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Beginner-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
+  <img src="https://img.shields.io/badge/Predictive%20Modeling-Beginner-FF6B6B?style=flat" alt="Predictive Modeling Skill Badge">
   <img src="https://img.shields.io/badge/A%2FB%20Testing-Beginner-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
 </p>
