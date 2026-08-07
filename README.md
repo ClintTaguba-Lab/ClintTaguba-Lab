@@ -14,7 +14,6 @@
 </a>
 <a href="YOUR-GITHUB-PORTFOLIO-LINK">
   <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
   <a href="mailto:tagubaclinton@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
