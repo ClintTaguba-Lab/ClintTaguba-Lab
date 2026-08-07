@@ -36,6 +36,8 @@ Alongside my current role, I'm continuously expanding my skills in Data Science 
 
 ## 💼 Professional Skillset
 
+### 💼 Professional Skillset
+
 <table>
   <tr>
     <td>
@@ -51,6 +53,14 @@ Alongside my current role, I'm continuously expanding my skills in Data Science 
     </td>
     <td>
       <img src="https://img.shields.io/badge/Time_Management-4B5563?style=flat" alt="Time Management">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Data_Storytelling-4B5563?style=flat" alt="Data Storytelling">
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Methodologies-4B5563?style=flat" alt="Methodologies">
     </td>
   </tr>
 </table>
